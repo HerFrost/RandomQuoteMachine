@@ -1,1 +1,1 @@
-url: https://github.com/HerFrost/RandomQuoteMachine.git
+url: https://herfrost.github.io/RandomQuoteMachine/
